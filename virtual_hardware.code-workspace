@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../virtual_hardware"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
